@@ -3,7 +3,6 @@
 #include<pthread.h>
 #include<unistd.h>
 #include<stdlib.h>
-#include<math.h>
 
 void taskFunc(void* arg)
 {
